@@ -1,1 +1,2 @@
 This is the first line in git project
+Adding a new line
